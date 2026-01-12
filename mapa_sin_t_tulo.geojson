@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.416757,
+          -34.62087,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Accademia Della Pizza Boedo",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "5u34P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3718814,
+          -34.6055779,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bar Gédrez Restaurant",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "KwbZl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3784737,
+          -34.6023127,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Casa De La Nonna",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "FTIly"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.416489,
+          -34.62436,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Esquina Osvaldo Pugliese",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "4tUs8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492818,
+          -34.5753485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hijos del Mar Café de especialidad",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "wUjpK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4160094,
+          -34.6247594,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kentucky",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "taZ8v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3754224,
+          -34.6085241,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Embajada",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "fZLM3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3797415,
+          -34.6038099,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Milanga & Co.",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "pgsOD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4159493,
+          -34.625541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miño",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "QvBgU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165157,
+          -34.6251554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mr Tasty Boedo",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "lrzJP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4163852,
+          -34.6253299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San Juan y Boedo",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "577ao"
+    }
+  ]
+}
