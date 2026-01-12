@@ -35,35 +35,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3718814,
-          -34.6055779,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Bar Gédrez Restaurant",
-        "styleUrl": "#icon-1899-000000-nodesc",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#000000",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-      },
-      "id": "KwbZl"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.3784737,
           -34.6023127,
           0
@@ -319,6 +290,35 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "577ao"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4121,
+          -34.6231,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pan y Teatro",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "label-scale": 0,
+        "icon-opacity": 1,
+        "icon-color": "#000000",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon-offset-units": [
+          "pixels",
+          "insetPixels"
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "pyt2024"
     }
   ]
 }
