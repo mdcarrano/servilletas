@@ -35,35 +35,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3784737,
-          -34.6023127,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Casa De La Nonna",
-        "styleUrl": "#icon-1899-000000-nodesc",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#000000",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-      },
-      "id": "FTIly"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.416489,
           -34.62436,
           0
