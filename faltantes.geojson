@@ -304,6 +304,24 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "f0721001"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.393732,
+          -34.604321,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tuo Tempo",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "icon-color": "#000000",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "cec5c143"
     }
   ]
 }
