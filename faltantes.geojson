@@ -286,6 +286,24 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "7459c4a6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.398717,
+          -34.609587,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mostaza",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "icon-color": "#000000",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "f0721001"
     }
   ]
 }
