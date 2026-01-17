@@ -347,6 +347,24 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "c7c16789"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.391652,
+          -34.618056,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gardel de Buenos Aires",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "icon-color": "#000000",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "8c2e1ed0"
     }
   ]
 }
