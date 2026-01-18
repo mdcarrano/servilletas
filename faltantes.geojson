@@ -383,6 +383,24 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "ac59bea3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.453666,
+          -34.566982,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chungo",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "icon-color": "#000000",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "8e6cc4f6"
     }
   ]
 }
