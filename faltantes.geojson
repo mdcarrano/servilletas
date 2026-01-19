@@ -401,24 +401,6 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "8e6cc4f6"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.399037,
-          -34.621871,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nueva Casa Japonesa",
-        "styleUrl": "#icon-1899-000000-nodesc",
-        "icon-color": "#000000",
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-      },
-      "id": "b70ac4b1"
     }
   ]
 }
