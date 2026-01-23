@@ -509,6 +509,24 @@
         "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
       },
       "id": "d7f23fc9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.375457,
+          -34.598809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Caffe Vergnano",
+        "styleUrl": "#icon-1899-000000-nodesc",
+        "icon-color": "#000000",
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+      },
+      "id": "93b6aefe"
     }
   ]
 }
